@@ -1,0 +1,4 @@
+some of the files in c in these exercises dont have an automatic exit
+They use getchar() and putchar().
+To exit the program click CTRL+D
+This is the EOF(End Of File)
