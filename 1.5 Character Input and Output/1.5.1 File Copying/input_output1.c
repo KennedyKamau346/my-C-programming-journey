@@ -6,7 +6,7 @@ int main()
     int c;
     
     c = getchar();
-    while (c != EOF) {
+    while (c != EOF) {  // use CTRL+D to exit the program
         putchar(c);
         c = getchar();
     }
