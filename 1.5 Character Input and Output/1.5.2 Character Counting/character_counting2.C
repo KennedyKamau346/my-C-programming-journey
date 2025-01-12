@@ -6,6 +6,6 @@ int main()
     double nc;
 
     for (nc = 0; getchar() != EOF; ++nc)
-        ;
+        ;                            //null statement; body of this for is empty
     printf("%.0f\n", nc);
 }
